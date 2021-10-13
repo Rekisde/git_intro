@@ -1,3 +1,3 @@
 print("you just got pranked")
 
-print("not funny")
+print("the church bells are ringing lollll")
